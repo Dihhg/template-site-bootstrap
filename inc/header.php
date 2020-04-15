@@ -14,10 +14,13 @@
                         <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Gols</a>
+                        <a class="nav-link" href="#">Jogadores</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Jogadores</a>
+                        <a class="nav-link" href="#">Contato</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Login</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#">Em breves novidades</a>
