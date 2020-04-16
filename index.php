@@ -13,28 +13,28 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="https://eduimportsoficial.com.br/wp-content/uploads/2019/06/big7-22.jpg" alt="Primeiro Slide">
+            <img class="d-block w-50" src="https://eduimportsoficial.com.br/wp-content/uploads/2019/06/big7-22.jpg" alt="Primeiro Slide">
             <div class="carousel-caption d-none d-sm-block">
                 <h5>Titulo 1</h5>
                 <p>Descrição 1</p>
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="https://images-submarino.b2w.io/produtos/01/00/img/46284/5/46284577_1GG.jpg" alt="Segundo Slide">
+            <img class="d-block w-50" src="https://images-submarino.b2w.io/produtos/01/00/img/46284/5/46284577_1GG.jpg" alt="Segundo Slide">
             <div class="carousel-caption d-none d-sm-block">
                 <h5>Titulo 2</h5>
                 <p>Descrição 2</p>
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="https://i.imgur.com/OHjzaMR.png" alt="Terceiro Slide">
+            <img class="d-block w-50" src="https://i.imgur.com/OHjzaMR.png" alt="Terceiro Slide">
             <div class="carousel-caption d-none d-sm-block">
                 <h5>Titulo 3</h5>
                 <p>Descrição 3</p>
             </div>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201910/brothers-17792797-311020191047.gif" alt="Segundo Slide">
+            <img class="d-block w-50" src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201910/brothers-17792797-311020191047.gif" alt="Segundo Slide">
             <div class="carousel-caption d-none d-sm-block">
                 <h5>Titulo 4</h5>
                 <p>Descrição 4</p>
